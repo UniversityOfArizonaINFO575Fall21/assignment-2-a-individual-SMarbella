@@ -1,0 +1,6 @@
+Name: Stephanie Marbella
+Instructor: Dr. Martin Fricke
+Project 2
+
+October 17, 2021:
+Created a Github account, Git repo, and local repo.

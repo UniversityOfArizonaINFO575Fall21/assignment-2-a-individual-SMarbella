@@ -23,13 +23,15 @@
         </ul>
       </div>
     </div>
+    
     <div class="splash-container">
       <div class="splash">
+        <img src="images/roman-forum.png" alt="A Roman forum.">
         <h1 class="splash-head">The Roman Empire</h1>
         <p class="splash-subhead">The Greatest Empire in History</p>
         <p> <a href="http://purecss.io" class="pure-button pure-button-primary">What
             is the Roman Empire?</a> </p>
-      </div>
+         </div>
     </div>
     <div class="content-wrapper">
       <div class="content">

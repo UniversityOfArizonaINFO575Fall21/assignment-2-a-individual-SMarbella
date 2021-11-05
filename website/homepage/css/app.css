@@ -10,7 +10,7 @@
  */
 body {
     line-height: 1.7em;
-    background-image: url(images/roman-forum.png);
+    background-color: #F9EADD;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -62,7 +62,7 @@ label {
 }
 
 .pure-form input[type] {
-    border: 2px solid #ddd;
+    border: 2px solid #F9EADD;
     box-shadow: none;
     font-size: 100%;
     width: 100%;
@@ -99,7 +99,7 @@ a.pure-button-primary {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #2d3e50;
+    background: #F9EADD;
 }
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
@@ -109,13 +109,13 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-    color: white;
+    color: #F9EADD;
     font-weight: 400;
     font-size: 120%;
 }
 
 .home-menu .pure-menu-selected a {
-    color: white;
+    color: #F9EADD;
 }
 
 .home-menu a {
@@ -134,10 +134,16 @@ a.pure-button-primary {
  * This is the blue top section that appears on the page.
  */
 
-.splash-container {
-    background: #1f8dd6;
-    z-index: 1;
-    overflow: hidden;
+.parallax {
+    /* Background image used */
+    background-image: url("../images/roman-forum.png");
+    min-height: 500px;
+
+    /* Creates the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 88%;
@@ -161,7 +167,7 @@ a.pure-button-primary {
 .splash-head {
     font-size: 20px;
     font-weight: bold;
-    color: white;
+    color: #F9EADD;
     border: 3px solid white;
     padding: 1em 1.6em;
     font-weight: 100;
@@ -187,7 +193,7 @@ a.pure-button-primary {
     width: 100%;
     min-height: 12%;
     z-index: 2;
-    background: white;
+    background: #F9EADD;
 
 }
 
@@ -206,7 +212,7 @@ a.pure-button-primary {
 
 /* This is a modifier class used when the content-head is inside a ribbon */
 .content-head-ribbon {
-    color: white;
+    color: #F9EADD;
 }
 
 /* This is the class used for the content sub-headers (<h3>) */

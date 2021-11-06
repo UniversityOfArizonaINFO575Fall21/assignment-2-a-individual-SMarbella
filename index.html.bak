@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@SMarbella 
+UniversityOfArizonaINFO575Fall21
+/
+assignment-2-a-individual-SMarbella
+Public
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+assignment-2-a-individual-SMarbella/index.html
+@SMarbella
+SMarbella Moved files to root.
+…
+Latest commit 2782d4e 13 hours ago
+ History
+ 1 contributor
+110 lines (104 sloc)  5.36 KB
+   
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +47,6 @@
   <body>
     <div class="header">
       <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed"> <a
-
           class="pure-menu-heading" href="">Your Site</a>
         <ul class="pure-menu-list">
           <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Home</a></li>
@@ -23,7 +55,6 @@
         </ul>
       </div>
     </div>
-    
     <div class="parallax">
       <div class="splash">
         <h1 class="splash-head">The Roman Empire</h1>
@@ -32,7 +63,7 @@
             is the Roman Empire?</a> </p>
       </div>
     </div>
-    <div class="content-wrapper">
+    <div class="content-wrapper" style="left: -25px; width: 913px;">
       <div class="content">
         <h2 class="content-head is-center">Excepteur sint occaecat cupidatat.</h2>
         <div class="pure-g">
@@ -64,9 +95,7 @@
       </div>
       <div class="ribbon l-box-lrg pure-g">
         <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5"> <img
-
             alt="File Icons" class="pure-img-responsive" src="/img/common/file-icons.png"
-
             width="300"> </div>
         <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
           <h2 class="content-head content-head-ribbon">Laboris nisi ut aliquip.</h2>
@@ -82,13 +111,10 @@
           <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
             <form class="pure-form pure-form-stacked">
               <fieldset> <label for="name">Your Name</label> <input id="name"
-
                   placeholder="Your Name" type="text"> <label for="email">Your
                   Email</label> <input id="email" placeholder="Your Email" type="email">
                 <label for="password">Your Password</label> <input id="password"
-
                   placeholder="Your Password" type="password"> <button type="submit"
-
                   class="pure-button">Sign Up</button> </fieldset>
             </form>
           </div>
@@ -109,3 +135,16 @@
     </div>
   </body>
 </html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete

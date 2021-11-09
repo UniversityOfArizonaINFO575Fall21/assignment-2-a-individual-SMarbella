@@ -104,7 +104,7 @@ a.pure-button-primary {
 }
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
-    border-bottom: none;
+    border-bottom: 200px;
     /* I need a higher z-index here because of the scroll-over effect. */
     z-index: 4;
 }
@@ -192,7 +192,10 @@ a.pure-button-primary {
 
 }
 
-
+/* We want to give the content area some more padding */
+.content {
+    padding: 1em 1em 3em;
+}
 
 /* This is the class used for the main content headers (<h2>) */
 .content-head {

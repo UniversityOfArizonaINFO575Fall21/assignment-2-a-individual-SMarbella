@@ -25,17 +25,20 @@
     <div class="parallax">
       <div class="banner">
         <h1> Introduction </h1>
+        <p> <img src="images/introduction.png" alt="Introduction"
+
+            title="Introduction banner" style="width:100%;height:100%;max-width:983px;max-height:57px;"><br>
       </div>
       <div class="parallax-text">
-        <p> <img src="../images/Roman border.png"
+        <p> <img src="images/roman-border.png" alt="Decorative Roman-styled border"
 
-            alt="Decorative Roman-styled border" title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"><br>
+            title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"><br>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ducimus
           debitis dicta, esse impedit quia consectetur minus eius reiciendis eum
           quo, natus soluta itaque deserunt! Vel magnam eaque in repellendus. <br>
-          <img src="file:///C:/Users/Napoleon%20Bonaparte/Documents/GitHub/assignment-2-a-individual-SMarbella/images/Roman%20border.png"
+          <img src="images/roman-border.png" alt="Decorative Roman-styled border"
 
-            alt="Decorative Roman-styled border" title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
+            title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
       </div>
     </div>
     <div style="height:1000px;font-size:36px"> The Roman Empire was a

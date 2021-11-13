@@ -74,6 +74,13 @@ p {
     color: white;
 }
 
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+
 /* The decorative parallax part of the website */
 
 .parallax {
@@ -93,7 +100,6 @@ p {
 .parallax-text {
     background-color: rgba(48, 28, 13, 0.56);
     width: 100%;
-    padding: 0px 0 0px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,6 +114,3 @@ p {
     font-weight: bolder;
 }
 
-.banner {
-    
-}

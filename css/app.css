@@ -93,17 +93,20 @@ p {
 .parallax-text {
     background-color: rgba(48, 28, 13, 0.56);
     width: 100%;
-    margin-top: 74px;
-    padding: 10% 0 10% 0;
+    padding: 0px 0 0px 0;
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  .parallax h1 {
-    color: white;
-    max-width: 40vw;
+}
+.parallax-text p {
+    color: #DDC3AF;
+    max-width: 983px;
     text-align: center;
-  }
+    word-spacing: 0.25em;
+    line-height: 1.4;
+    font-size: 20px;
+    font-weight: bolder;
+}
 
 .banner {
     

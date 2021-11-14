@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -26,30 +29,38 @@ p {
 }
 
 /* Creates the design for the text in the header above the menu.*/
-
 .header {
+    font-weight: lighter;
     background-color: #F9EADD;
     text-align: center;
     padding: 1.5rem 0 1.5rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    line-height: 1em;
 }
 
-.header .header-text {
-    max-width: 300px;
+.header .header-text h1 {
+    color: #301C0D;
+    width: 100%;
+    min-width: 980px;
+    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
+    font-size: 33px;
+}
+
+.header .header-text h2 {
+    color: #60391A;
+    font-size: 18px;
+    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
 }
 
 .header .header-text .author {
     color: #998564;
-}
-
-.header .header-text h2 {
-    color: #60391a;
+    font-family: Niconne, fantasy;
+    font-size: 35px;
 }
 
 /* The content menu that goes at the bottom of the header. */
-
 .menu {
     overflow: hidden;
     background-color: #F9EADD;
@@ -69,11 +80,12 @@ p {
     color: black;
 }
   
-  .menu a.active {
+.menu a.active {
     background-color: #04AA6D;
     color: white;
 }
 
+/* The decorative banner that holds the title of the page. */
 .banner {
     display: flex;
     justify-content: center;
@@ -82,7 +94,6 @@ p {
 
 
 /* The decorative parallax part of the website */
-
 .parallax {
     /* The image used */
     background-image: url("../images/roman-forum.png");
@@ -110,7 +121,7 @@ p {
     text-align: center;
     word-spacing: 0.25em;
     line-height: 1.4;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bolder;
 }
 

@@ -26,6 +26,7 @@
         <li><a href="#history">History</a></li>
         <li><a href="#beliefs">Beliefs</a></li>
         <li><a href="#social-status">Social Status</a></li>
+        <li><a href="#prominent-figures">Prominent Figures</a></li>
       </ul>
     </div>
     <div class="parallax">
@@ -48,5 +49,6 @@
     </div>
     <div style="height:1000px;font-size:36px"> The Roman Empire was a
       prestigious nation that existed in Europe during the classical times. </div>
+    
   </body>
 </html>

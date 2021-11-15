@@ -159,3 +159,8 @@ p {
     color: #60391A;
     font-size: 18px;
 }
+
+.article ul li p {
+    font-size: 12px;
+    text-align: left;
+}

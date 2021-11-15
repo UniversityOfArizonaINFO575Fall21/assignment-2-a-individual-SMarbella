@@ -17,7 +17,7 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
     font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
     margin: 0px;
 }
 
@@ -47,14 +47,12 @@ p {
     color: #301C0D;
     width: 100%;
     min-width: 980px;
-    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
     font-size: 33px;
 }
 
 .header .header-text h2 {
     color: #60391A;
     font-size: 18px;
-    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
 }
 
 .header .header-text .author {
@@ -70,7 +68,6 @@ p {
     overflow: hidden;
     background-color: #F9EADD;
     margin: 1em 0em;
-    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
 }
 
 .menu li {
@@ -146,11 +143,19 @@ p {
     text-align: center;
     word-spacing: 0.25em;
     line-height: 1.4;
-    font-family: Georgia, palatino,'book antiqua','palatino linotype', serif;
 }
 
 .content p {
     color: #60391A;
     max-width: 492px;
     font-size:18px;
+}
+
+.content h1 {
+    color: #301C0D;
+}
+
+.content h2 {
+    color: #60391A;
+    font-size: 18px;
 }

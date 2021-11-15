@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
     <link rel="stylesheet" href="/layouts/marketing/styles.css">
     <link rel="stylesheet" href="css/app.css">
+    <!-- Title Section -->
     <div class="header">
       <div class="header-text">
         <h1>The Roman Empire</h1>
@@ -20,6 +21,7 @@
           </span></h2>
       </div>
     </div>
+    <!-- Menu Section -->
     <div class="menu">
       <ul>
         <li><a class="active" href="#introduction">Introduction</a></li>
@@ -29,17 +31,18 @@
         <li><a href="#prominent-figures">Prominent Figures</a></li>
       </ul>
     </div>
+    <!-- Parallax Section -->
     <div class="parallax">
       <div class="banner"> <br>
-        <p> <img src="images/introduction.png" alt="Introduction" title="Introduction banner"
+        <img src="images/introduction.png" alt="Introduction" title="Introduction banner"
 
-            style="width:100%;height:100%;max-width:1010px;max-height:80px;"><br>
-        </p>
+          style="width:100%;height:100%;max-width:1010px;max-height:80px;"><br>
       </div>
+      <!-- Transparent Text Box Section -->
       <div class="parallax-text">
-        <p> <img src="images/roman-border.png" alt="Decorative Roman-styled border"
+        <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
 
-            title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"><br>
+            title="Roman Border" style="width:100%;height:100%;"><br>
           "I found Rome a city of bricks and left it a city of marble." <br>
           - Augustus -<br>
           <img src="images/roman-border.png" alt="Decorative Roman-styled border"
@@ -47,8 +50,44 @@
             title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
       </div>
     </div>
-    <div style="height:1000px;font-size:36px"> The Roman Empire was a
-      prestigious nation that existed in Europe during the classical times. </div>
-    
+    <!-- Article Body Section -->
+    <div class="content">
+      <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
+          title="Roman Border" style="width:100%;height:100%;">
+        <h1>What was the Roman Empire? </h1>
+      </div>
+    </div>
+    <div class="content">
+      <div class="article">
+        <h1></h1>
+        <img src="images/map.png" alt="The map of the Roman Empire"
+
+          title="Roman Empire Map" style="width:50%;height:50%;"><br>
+      </div>
+      <div class="article">
+        <p> The Roman Empire was a prestigious nation that existed in Europe
+          during the classical times. At first, the Roman Empire began as the
+          small city of Rome. On April 21, 753 B.C., Romulus founded Rome after
+          the murder of his twin brother, Remus. This city later became a
+          republic and later an empire. At its height in 117 A.D., the Roman
+          Empire covered lands from as south as North Africa to lands north in
+          England and from west in Spain to east in Mesopotamia.</p>
+      </div>
+    </div>
+    <div class="content">
+      <div class="article">
+        <p style="max-width: 983px;">The Roman Empire was known for their fine
+          engineering, prestigious architecture, roads, and cities. Their
+          governmental structure was known for impressive feats of law and
+          political organization. They also had a fierce military that helped
+          the empire expand their networks throughout Europe. However, like all
+          nations, the Roman Empire, which seemed like it would last for
+          eternity, came to an end in 476 C.E. </p>
+        <br>
+        <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
+          title="Roman Border" style="width:100%;height:100%;"> </div>
+    </div>
   </body>
 </html>

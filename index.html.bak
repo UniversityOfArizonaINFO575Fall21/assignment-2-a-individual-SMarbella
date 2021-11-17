@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
   </head>
-  <body>
+  <body> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A layout example that shows off a responsive product landing page.">
     <title>The Roman Empire</title>
@@ -27,8 +27,10 @@
         <li><a class="active" href="/assignment-2-a-individual-SMarbella/index.html">Introduction</a></li>
         <li><a href="/assignment-2-a-individual-SMarbella/history.html">History</a></li>
         <li><a href="/assignment-2-a-individual-SMarbella/beliefs.html">Beliefs</a></li>
-        <li><a href="/assignment-2-a-individual-SMarbella/social-status.html">Social Status</a></li>
-        <li><a href="/assignment-2-a-individual-SMarbella/prominent-figures.html">Prominent Figures</a></li>
+        <li><a href="/assignment-2-a-individual-SMarbella/social-status.html">Social
+            Status</a></li>
+        <li><a href="/assignment-2-a-individual-SMarbella/prominent-figures.html">Prominent
+            Figures</a></li>
       </ul>
     </div>
     <!-- Parallax Section -->

@@ -144,22 +144,6 @@
         <h1>Christianity Era</h1>
       </div>
     </div>
-    <!-- Article One-Column Content Section Section -->
-    <div class="content">
-      <div class="article">
-        <p style="max-width: 983px;"></p>
-        <p style="max-width: 983px;">In 300 A.D., only ten percent of the Roman
-          population practiced Christianity. At first, the Romans saw the Jews
-          and early Christians as threats to the existence of their empire. They
-          were hostile to Christianity and often blamed them for causing havoc
-          throughout the empire. Thus, they believed that if they let
-          Christianity take over the empire, the Roman Empire would collapse. By
-          400 A.D., the Roman Empire later converted to Christianity and
-          declared it the official religion. When the Roman Empire split into
-          the West and East Empires, it created the Catholic (west) and Orthodox
-          (east) Christian branches.</p>
-      </div>
-    </div>
     <!-- Article Two-Column Content Section With Image On The Right -->
     <div class="content">
       <div class="article"> <img src="images/paul-quote.png" alt="But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ. - Apostle Paul -"
@@ -171,6 +155,22 @@
           Tarsus. Paul was an influential Roman citizen who spread Christianity
           throughout the Roman Empire. He wrote many letters that later became
           the New Testament of the Bible.</p>
+      </div>
+    </div>
+    <!-- Article One-Column Content Section Section -->
+    <div class="content">
+      <div class="article">
+        <p style="max-width: 983px;"></p>
+        <p style="max-width: 983px;">At first, the Romans saw the Jews and early
+          Christians as threats to the existence of their empire. They were
+          hostile to Christianity and often blamed them for causing havoc
+          throughout the empire. Thus, they believed that if they let
+          Christianity take over the empire, the Roman Empire would collapse. In
+          300 A.D., only ten percent of the Roman population practiced
+          Christianity. By 400 A.D., the Roman Empire later converted to
+          Christianity and declared it the official religion. When the Roman
+          Empire split into the West and East Empires, it created the Catholic
+          (west) and Orthodox (east) Christian branches.</p>
       </div>
     </div>
     <div class="content">

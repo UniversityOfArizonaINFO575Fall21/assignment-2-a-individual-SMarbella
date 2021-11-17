@@ -24,10 +24,10 @@
     <!-- Menu Section -->
     <div class="menu">
       <ul>
-        <li><a class="active" href="/assignment-2-a-individual-SMarbella/index.html">Introduction</a></li>
+        <li><a href="/assignment-2-a-individual-SMarbella/index.html">Introduction</a></li>
         <li><a href="/assignment-2-a-individual-SMarbella/history.html">History</a></li>
         <li><a href="/assignment-2-a-individual-SMarbella/beliefs.html">Beliefs</a></li>
-        <li><a href="/assignment-2-a-individual-SMarbella/social-status.html">Social
+        <li><a class="active" href="/assignment-2-a-individual-SMarbella/social-status.html">Social
             Status</a></li>
         <li><a href="/assignment-2-a-individual-SMarbella/prominent-figures.html">Prominent
             Figures</a></li>
@@ -45,8 +45,8 @@
         <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
 
             title="Roman Border" style="width:100%;height:100%;"><br>
-          "I found Rome a city of bricks and left it a city of marble." <br>
-          - Augustus -<br>
+          "A man's worth is no greater than his ambitions." <br>
+          - Marcus Aurelius -<br>
           <img src="images/roman-border.png" alt="Decorative Roman-styled border"
 
             title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
@@ -120,25 +120,20 @@
               philosophy, astronomy, and the natural sciences. </p>
           </li>
           <li>
-            <p>Romans knew the Greek language and used it in their daily
-              conversations.</p>
-          </li>
-          <li>
             <p> The Romans adapted their numerals from the Etruscan numerals.</p>
           </li>
         </ul>
       </div>
-      <div class="article"> <img src="images/timeline.png" alt="Roman Empire timeline"
+      <div class="article"> <img src="images/timeline.png" alt="The map of the Roman Empire"
 
-          title="Roman Empire Timepline" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
-        <br>
+          title="Roman Empire Map" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
       </div>
     </div>
+    <div class="article"> </div>
     <div class="content">
       <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
 
           title="Roman Border" style="width:100%;height:100%;"> </div>
     </div>
-    
   </body>
 </html>

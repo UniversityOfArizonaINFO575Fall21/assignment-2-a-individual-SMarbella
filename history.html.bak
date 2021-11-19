@@ -56,7 +56,7 @@
         <h1>Timeline</h1>
       </div>
     </div>
-    <!-- Article One-Column Content Section Section -->
+    <!-- Article One-Column Content Section -->
     <div class="content">
       <div class="article"> <img src="images/timeline.png" alt="The timeline of Rome"
           title="Roman Timeline" style="width:100%;height:100%;">
@@ -89,14 +89,14 @@
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
       <div class="article"> <img src="images/kings.png" alt="Seven Kings of Rome"
-          title="Seven Kings of Rome" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+          title="Seven Kings of Rome" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
         <p>For over two centuries, Rome was a kingdom. The Romans had seven
           kings.</p>
       </div>
     </div>
-    <!-- Article One-Column Content Section Section -->
+    <!-- Article One-Column Content Section -->
     <div class="content">
       <div class="article">
         <h1>Roman Republic</h1>
@@ -192,7 +192,7 @@
         </ul>
       </div>
     </div>
-    <!-- Article One-Column Content Section Section -->
+    <!-- Article One-Column Content Section -->
     <div class="content">
       <div class="article">
         <h1>The Roman Empire Under the Emperors</h1>

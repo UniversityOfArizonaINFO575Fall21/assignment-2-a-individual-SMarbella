@@ -67,17 +67,17 @@
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/constantine.png" alt="The map of the Roman Empire"
-          title="Roman Empire Map" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+      <div class="article"> <img src="images/constantine.png" alt="Statue of Constantine"
+          title="Statue of Constantine" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
       </div>
       <div class="article">
         <h2>Notable People</h2>
         <ul>
           <li>
             <p>Tiberius Gracchus (163 BC - 133 BC)<br>
-              &nbsp;&nbsp;&nbsp; Popularis Roman politician who saw both the
-              rich and poor equally. His ideas of aiding the peasants in their
-              struggles were unpopular among the senate. </p>
+              &nbsp;&nbsp;&nbsp; <em>Popularis</em> Roman politician who saw
+              both the rich and poor equally. His ideas of aiding the peasants
+              in their struggles were unpopular among the senate. </p>
           </li>
           <li>
             <p>Gaius Marius (157 BC - 86 BC)<br>
@@ -134,58 +134,35 @@
         </ul>
       </div>
     </div>
-    <!-- Article One-Column Content Section -->
-    <div class="content">
-      <div class="article">
-        <p style="max-width: 983px;">The Roman Empire was known for their fine
-          engineering, prestigious architecture, roads, and cities. Their
-          governmental structure was known for impressive feats of law and
-          political organization. They also had a fierce military that helped
-          the empire expand their networks throughout Europe. However, like all
-          nations, the Roman Empire, which seemed like it would last for
-          eternity, came to an end in 476 C.E. </p>
-      </div>
-    </div>
     <!-- Article Two-Column Content Section With Image On The Right -->
     <div class="content">
       <div class="article">
-        <h2>To go by birthdates</h2>
-        <ul>
-          <li>
-            <p>Nero (37 AD - 68 AD) Reign: 13 October 54 - 9 June 68</p>
-          </li>
-          <li>
-            <p>Commodus (161 AD - 192 AD) Reign: 176 - 31 December 192</p>
-          </li>
-          <li>
-            <p> Trajan (53 AD - 117 AD) Reign: 28 January 98 - 11 August 117</p>
-          </li>
-          <li>
-            <p>Tiberius Gracchus (163–133 BC)</p>
-          </li>
-          <li>
-            <p>Constantine (282 AD - 337 AD) Reign: 25 July 306 - 22 May 337</p>
-          </li>
-          <li>
-            <p>Gaius Marius (157 BC - 86 BC)</p>
-          </li>
-          <li>
-            <p>Marcus Cicero (106 BC - 43 BC)</p>
-          </li>
-          <li>
-            <p>Julius Caesar (100 BC - 44 BC) Reign (dictator): 49 BC - 44 BC </p>
-          </li>
-          <li>
-            <p>Spartacus (111 BC - 71 BC)</p>
-          </li>
-          <li>
-            <p>Augustus (63 BC - 14 AD) Reign (founder of Roman Empire): 27 BC -
-              14 AD</p>
-          </li>
-        </ul>
+        <h2>Tiberius Gracchus</h2>
+        <p>Tiberius Gracchus (163 BC - 133 BC) was born in one of Rome's most
+          elite families. He was a <em>Popularis</em> Roman politician who
+          cared for the poor. He was also a distinguished officer who saved more
+          than 20,000 Roman soldiers during the Third Punic War. His views were
+          not popular among his fellow politicians. Eventually, his opponents
+          assassinated him.</p>
       </div>
-      <div class="article"> <img src="images/timeline.png" alt="The map of the Roman Empire"
-          title="Roman Empire Map" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+      <div class="article"> <img src="images/tiberius-gracchus.png" alt="Side portrait of Tiberius Gracchus"
+          title="Tiberius Gracchus" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+      </div>
+    </div>
+    <!-- Article Two-Column Content Section With Image On The Left -->
+    <div class="content">
+      <div class="article"> <img src="images/gaius-marius.png" alt="Statue of Gaius Marius"
+          title="Statue of Gaius Marius" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+      </div>
+      <div class="article">
+        <h2>Gaius Marius</h2>
+        <p>Gaius Marius (157 BC - 86 BC) was a Roman general and statesman. As a
+          military genius, he reformed the Roman army into one of the most
+          powerful fighting forces in the world. Recruitment of men was too low
+          for the Romans to defend themselves from nearby German tribes. Gaius
+          Marius forever helped the Roman military legions modify their ways of
+          engaging an enemy and win the battles of Aquae Sextiae and Campi
+          Raudii. He also was a consul seven times in a row.</p>
       </div>
     </div>
     <div class="article"> </div>

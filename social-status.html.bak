@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A layout example that shows off a responsive product landing page.">
     <title>The Roman Empire</title>
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/pure/pure-min.css">
     <link rel="stylesheet" href="/css/pure/grids-responsive-min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
@@ -36,30 +37,36 @@
     <!-- Parallax Section -->
     <div class="parallax"> <br>
       <div class="banner"> <br>
-        <img src="images/social-status.png" alt="Social Status" title="Social Status banner"
+        <img src="images/social-status.png" alt="Social Status" title="Social Status banner"
+
           style="width:100%;height:100%;max-width:1010px;max-height:80px;"><br>
       </div>
       <!-- Transparent Text Box Section -->
       <div class="parallax-text">
-        <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
+        <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
+
             title="Roman Border" style="width:100%;height:100%;"><br>
           "A man's worth is no greater than his ambitions." <br>
           - Marcus Aurelius -<br>
-          <img src="images/roman-border.png" alt="Decorative Roman-styled border"
+          <img src="images/roman-border.png" alt="Decorative Roman-styled border"
+
             title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
       </div>
     </div>
+    <div class="content">
+      <div class="border"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
+          title="Roman Border" style="width:100%;height:100%;"> </div>
+    </div>
     <!-- Article Body Section -->
     <div class="content">
-      <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
-          title="Roman Border" style="width:100%;height:100%;">
-        <h1>Social Structure</h1>
-      </div>
+      <h1>Social Structure</h1>
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/social-structure.png" alt="The social structure in Ancient Rome"
-          title="Social Structure" style="width: 470px; height: 333px; max-width: 700px; max-height: 900px;"><br>
+      <div class="article"> <img src="images/social-structure.png" alt="The social structure in Ancient Rome"
+
+          title="Social Structure" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
         <p> Like many civilizations from around the world, the Romans had a
@@ -90,13 +97,15 @@
     </div>
     <!-- Article Two-Column Content Section With Image On The Right -->
     <div class="content">
-      <div class="article"> <img src="images/social-definitions.png" alt="Quick explanations of people's roles in Ancient Rome"
+      <div class="article"> <img src="images/social-definitions.png" alt="Quick explanations of people's roles in Ancient Rome"
+
           title="Roles and Their Definitions" style="width:100%;height:100%;"><br>
       </div>
     </div>
     <div class="article"> </div>
     <div class="content">
-      <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+      <div class="border"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
           title="Roman Border" style="width:100%;height:100%;"> </div>
     </div>
   </body>

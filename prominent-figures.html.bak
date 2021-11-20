@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A layout example that shows off a responsive product landing page.">
     <title>The Roman Empire</title>
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/pure/pure-min.css">
     <link rel="stylesheet" href="/css/pure/grids-responsive-min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
@@ -36,24 +37,31 @@
     <!-- Parallax Section -->
     <div class="parallax"> <br>
       <div class="banner"> <br>
-        <img src="images/prominent-figures.png" alt="Prominent Figures" title="Prominent Figures banner"
+        <img src="images/prominent-figures.png" alt="Prominent Figures" title="Prominent Figures banner"
+
           style="width:100%;height:100%;max-width:1010px;max-height:80px;"><br>
       </div>
       <!-- Transparent Text Box Section -->
       <div class="parallax-text">
-        <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
+        <p><img src="images/roman-border.png" alt="Decorative Roman-styled border"
+
             title="Roman Border" style="width:100%;height:100%;"><br>
           "I have always been of the opinion that unpopularity earned by doing
           what is right is not unpopularity at all, but glory." <br>
           - Marcus Tullius Cicero -<br>
-          <img src="images/roman-border.png" alt="Decorative Roman-styled border"
+          <img src="images/roman-border.png" alt="Decorative Roman-styled border"
+
             title="Roman Border" style="width:100%;height:100%;max-width:983px;max-height:57px;"></p>
       </div>
     </div>
+    <div class="content">
+      <div class="border"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
+          title="Roman Border" style="width:100%;height:100%;"> </div>
+    </div>
     <!-- Article Body Section -->
     <div class="content">
-      <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
-          title="Roman Border" style="width:100%;height:100%;">
+      <div class="article">
         <h1>Who Were the Famous People in the Roman Empire? </h1>
       </div>
     </div>
@@ -68,7 +76,8 @@
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/constantine-statue.png" alt="Statue of Constantine"
+      <div class="article"> <img src="images/constantine-statue.png" alt="Statue of Constantine"
+
           title="Statue of Constantine" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
@@ -146,13 +155,15 @@
           not popular among his fellow politicians. Eventually, his opponents
           assassinated him.</p>
       </div>
-      <div class="article"> <img src="images/tiberius-gracchus.png" alt="Side portrait of Tiberius Gracchus"
+      <div class="article"> <img src="images/tiberius-gracchus.png" alt="Side portrait of Tiberius Gracchus"
+
           title="Tiberius Gracchus" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/gaius-marius.png" alt="Statue of Gaius Marius"
+      <div class="article"> <img src="images/gaius-marius.png" alt="Statue of Gaius Marius"
+
           title="Statue of Gaius Marius" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
@@ -179,13 +190,15 @@
           rebellious army of 70,000 individuals. Alerted of the uprising, the
           Roman Senate killed Spartacus and his army.</p>
       </div>
-      <div class="article"> <img src="images/spartacus.png" alt="Statue of Spartacus"
+      <div class="article"> <img src="images/spartacus.png" alt="Statue of Spartacus"
+
           title="Statue of Spartacus" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/marcus-cicero.png" alt="Statue of Marcus Cicero"
+      <div class="article"> <img src="images/marcus-cicero.png" alt="Statue of Marcus Cicero"
+
           title="Statue of Marcus Cicero" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
@@ -208,13 +221,15 @@
           expanded the Roman borders into lands previously unknown to Romans.
           Many military personnel today study Julius Caesar's military tactics.</p>
       </div>
-      <div class="article"> <img src="images/julius-caesar.png" alt="Side portrait of Julius Caesar"
+      <div class="article"> <img src="images/julius-caesar.png" alt="Side portrait of Julius Caesar"
+
           title="Julius Caesar" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/augustus.png" alt="Side portrait of Augustus"
+      <div class="article"> <img src="images/augustus.png" alt="Side portrait of Augustus"
+
           title="Augustus" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
@@ -245,13 +260,15 @@
           While fleeing from the Roman Senate, Nero committed suicide on June 9,
           68 AD.</p>
       </div>
-      <div class="article"> <img src="images/nero.png" alt="Side portrait of Nero"
+      <div class="article"> <img src="images/nero.png" alt="Side portrait of Nero"
+
           title="Nero" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
     </div>
     <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/trajan.png" alt="Side portrait of Trajan"
+      <div class="article"> <img src="images/trajan.png" alt="Side portrait of Trajan"
+
           title="Trajan" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
       <div class="article">
@@ -283,12 +300,34 @@
           gladiator and an incompetent emperor, the Roman Senate hired an
           athlete named Narcissus and successfully assassinated Commodus.</p>
       </div>
-      <div class="article"> <img src="images/commodus.png" alt="Side portrait of Commodus"
+      <div class="article"> <img src="images/commodus.png" alt="Side portrait of Commodus"
+
           title="Commodus" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
       </div>
     </div>
+    <!-- Article Two-Column Content Section With Image On The Left -->
     <div class="content">
-      <div class="article"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+      <div class="article"> <img src="images/constantine.png" alt="Side portrait of Constantine"
+
+          title="Constantine" style="width: 100%; height: 100%; max-width: 470px; max-height: 333px;"><br>
+      </div>
+      <div class="article">
+        <h2><strong>Constantine</strong></h2>
+        <p>Constantine (282 AD - 337 AD), also known as Constantine the Great,
+          was alive when the Roman Empire was divided between many different
+          rulers in the third century AD. Constantine defeated all the possible
+          emperors and united the divided lands in the Roman Kingdom. He was the
+          first Christian Roman emperor and legalized Christianity, making
+          Christianity the official religion of the empire. He later relocated
+          the Roman capital of Rome to the east in Byzantium. Unsatisfied with
+          the name of Byzantium, he renamed the new capital to Constantinopolis.
+          He reigned from July 25, 306 AD until his peaceful death on May 22,
+          337 AD.</p>
+      </div>
+    </div>
+    <div class="content">
+      <div class="border"> <img src="images/roman-border-2.png" alt="Decorative Roman-styled border"
+
           title="Roman Border" style="width:100%;height:100%;"> </div>
     </div>
   </body>

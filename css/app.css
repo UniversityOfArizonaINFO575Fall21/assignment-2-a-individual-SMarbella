@@ -139,7 +139,7 @@ p {
 }
 
 .content .article {
-    text-align: center;
+    text-align: left;
     word-spacing: 0.25em;
     line-height: 1.4;
 }
@@ -151,10 +151,12 @@ p {
 }
 
 .content h1 {
+    text-align: center;
     color: #301C0D;
 }
 
 .content h2 {
+    text-align: center;
     color: #60391A;
     font-size: 18px;
 }

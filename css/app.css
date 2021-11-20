@@ -139,24 +139,23 @@ p {
 }
 
 .content .article {
-    text-align: left;
+    text-align: center;
     word-spacing: 0.25em;
     line-height: 1.4;
 }
 
-.content p {
+.content .article p {
     color: #60391A;
     max-width: 492px;
     font-size:18px;
+    text-align: left;
 }
 
-.content h1 {
-    text-align: center;
+.content .article h1 {
     color: #301C0D;
 }
 
-.content h2 {
-    text-align: center;
+.content .article h2 {
     color: #60391A;
     font-size: 18px;
 }
